@@ -24,7 +24,7 @@
             <WordsStyle name="KEYWORD2" styleID="6" fgColor="B66CFF" bgColor="FFFFFF" fontName="" fontStyle="2" />
             <WordsStyle name="KEYWORD3" styleID="7" fgColor="E10000" bgColor="FFFFFF" fontName="" fontStyle="0" />
             <WordsStyle name="KEYWORD4" styleID="8" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="0" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="00AA00" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="00AA00" bgColor="FFFFFF" fontName="" fontStyle="0" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="800000" bgColor="FFFFFF" fontName="" fontStyle="1" />
